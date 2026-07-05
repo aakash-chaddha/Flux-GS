@@ -43,7 +43,7 @@ Welcome to **watch** 👀 this repository for the latest updates.
 For installation:
 We recommend to use cuda 12.6 with python 3.11 for easy setup.
 ```shell
-git clone git@github.com:xiaobiaodu/Mobile-GS.git
+git clone git@github.com:xiaobiaodu/Flux-GS.git
 
 conda create -n flux-gs python==3.11
 conda activate flux-gs
