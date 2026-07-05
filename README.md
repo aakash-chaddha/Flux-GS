@@ -67,6 +67,7 @@ python train.py ... --mv  3
 ```
 
 ## Evaluation
+The trained weights are released on [Huggingface](https://huggingface.co/datasets/mobile-gs2/mobile-gs2)
 ```shell
 python render.py -s <path to COLMAP> -m <model path> --decode
 python metrics.py -m <model path> 
