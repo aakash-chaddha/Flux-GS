@@ -73,7 +73,7 @@ python render.py -s <path to COLMAP> -m <model path> --decode
 python metrics.py -m <model path> 
 ```
 #### --decode
-Rendering with the compressed file (comp.xz), otherwise using the ply file. The results are the same regardless of this option.
+Rendering with the compressed file (comp.json), otherwise using the ply file. The results are the same regardless of this option.
 
 
 ## Mobile Rendering
